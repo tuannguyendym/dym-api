@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "index_slides",
+  "info": {
+    "singularName": "index-slide",
+    "pluralName": "index-slides",
+    "displayName": "Index Slide",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "original": {
+      "type": "string",
+      "pluginOptions": {}
+    }
+  }
+}
